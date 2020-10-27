@@ -1,0 +1,20 @@
+{
+    "Author": "Joe Levy_",
+    "ContentSize": 627,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-classic-vms-using-azure-automation/master/Stop-AzVM.ps1",
+    "DownloadCount": 1390,
+    "Id": "Stop-Azure-VMs-using-Azure-e94f9965",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 347,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-9-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Stops one or more Azure Classic VMs. Can be hooked up to a schedule to stop VMs continually at certain times of day.",
+    "Title": "Stop Azure Classic VMs using Azure Automation",
+    "UpdatedDate": "2015-9-28T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-azure-classic-vms-using-azure-automation",
+    "UserTags": "Automation, Windows Azure Virtual Machines, Azure Automation"
+}
